@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-22T15:28:13 EET" name="Default suite" finished-at="2023-09-22T15:28:27 EET" duration-ms="13571">
+    <groups>
+    </groups>
+    <test started-at="2023-09-22T15:28:13 EET" name="Default test" finished-at="2023-09-22T15:28:27 EET" duration-ms="13571">
+      <class name="test1">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:test1@1c6e0a08]" started-at="2023-09-22T15:28:13 EET" name="myBeforeTest" finished-at="2023-09-22T15:28:27 EET" duration-ms="13288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="TestCurrency()[pri:0, instance:test1@1c6e0a08]" started-at="2023-09-22T15:28:27 EET" name="TestCurrency" finished-at="2023-09-22T15:28:27 EET" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCurrency -->
+        <test-method signature="TestLanguage()[pri:0, instance:test1@1c6e0a08]" started-at="2023-09-22T15:28:27 EET" name="TestLanguage" finished-at="2023-09-22T15:28:27 EET" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLanguage -->
+        <test-method signature="hotelTap()[pri:0, instance:test1@1c6e0a08]" started-at="2023-09-22T15:28:27 EET" name="hotelTap" finished-at="2023-09-22T15:28:27 EET" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelTap -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:test1@1c6e0a08]" started-at="2023-09-22T15:28:27 EET" name="myAfterTest" finished-at="2023-09-22T15:28:27 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+      </class> <!-- test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
